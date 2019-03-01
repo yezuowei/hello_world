@@ -1,2 +1,3 @@
-# hello_world
-第一次建立的存储库
+Hello! My name is YeZuowei! My English name is Dave! I want to be a Data Analyst! 
+
+To be friend!
